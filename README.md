@@ -7,7 +7,7 @@ I am Igor Zvezdilin and i am java developer
 - [test tasks and exercises](https://github.com/Witcher26/TaskOfInterview)
 - [Дипломная работа. Поисковая система](https://github.com/Witcher26/pcs-jd-diplom_Search_System)
 - [Курсовая работа. Конвертер в текстовую графику](https://github.com/Witcher26/Kursovoy_converter_text_graphics)
-- [Работа с CSV - JSON парсером].(https://github.com/Witcher26/JavaCore_Task_5_1_CSV_to_JSON_parser)
+- [Работа с CSV - JSON парсером](https://github.com/Witcher26/JavaCore_Task_5_1_CSV_to_JSON_parser)
 - [Работа с XML - JSON парсером](https://github.com/Witcher26/JavaCore_Task_5_2_XML_to_JSON_parser)
 - [Работа с Json to java-classes парсером](https://github.com/Witcher26/JavaCore_Task_5_3_Json_to_Java_class_parser)
 
