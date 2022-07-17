@@ -14,6 +14,6 @@ I am Igor Zvezdilin and i am java developer
 - 🔭 I’m currently working on test task - [application for Alfa-Bank - exchange rates](https://github.com/Witcher26/exchange_rates)
 - 🌱 I’m currently learning Spring framework by Udemy and full course Postgresql on BeOnMax
 - 🤔 I’m looking for help with my first job in backend developing
-- 📫 How to reach me: by mail: 1816178@mail.ru
+- 📫 How to reach me: by mail: 1816178@mail.ru and by telegram @witcher26
 
 
