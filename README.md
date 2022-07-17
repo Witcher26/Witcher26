@@ -11,9 +11,9 @@ I am Igor Zvezdilin and i am java developer
 - [Работа с XML - JSON парсером](https://github.com/Witcher26/JavaCore_Task_5_2_XML_to_JSON_parser)
 - [Работа с Json to java-classes парсером](https://github.com/Witcher26/JavaCore_Task_5_3_Json_to_Java_class_parser)
 
-🔭 I’m currently working on test task - [application for Alfa-Bank - exchange rates](https://github.com/Witcher26/exchange_rates)
-🌱 I’m currently learning Spring framework by Udemy and full course Postgresql on BeOnMax
-🤔 I’m looking for help with my first job in backend developing
-📫 How to reach me: by mail: 1816178@mail.ru and by telegram @witcher26
+🔭 I’m currently working on test task - [application for Alfa-Bank - exchange rates](https://github.com/Witcher26/exchange_rates)  
+🌱 I’m currently learning Spring framework by Udemy and full course Postgresql on BeOnMax  
+🤔 I’m looking for help with my first job in backend developing  
+📫 How to reach me: by mail: 1816178@mail.ru and by telegram @witcher26  
 
 
