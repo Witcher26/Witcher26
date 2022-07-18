@@ -6,7 +6,7 @@ I am Igor Zvezdilin and am java developer
 - [My REST-Api project on the Spring Boot with PostgreSQL and MongoDB database, and with manual to use on Swagger - "Glossary"](https://github.com/Witcher26/Glossary)
 - [test tasks and exercises](https://github.com/Witcher26/TaskOfInterview)
 - [Diploma project. Search engine](https://github.com/Witcher26/pcs-jd-diplom_Search_System)
-- [Course paper. Converter to Text graphics](https://github.com/Witcher26/Kursovoy_converter_text_graphics)
+- [Course work. Converter to Text graphics](https://github.com/Witcher26/Kursovoy_converter_text_graphics)
 - [CSV - JSON parser](https://github.com/Witcher26/JavaCore_Task_5_1_CSV_to_JSON_parser)
 - [XML - JSON parser](https://github.com/Witcher26/JavaCore_Task_5_2_XML_to_JSON_parser)
 
