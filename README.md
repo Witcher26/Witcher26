@@ -9,7 +9,6 @@ I am Igor Zvezdilin and am java developer
 - [Курсовая работа. Конвертер в текстовую графику](https://github.com/Witcher26/Kursovoy_converter_text_graphics)
 - [Работа с CSV - JSON парсером](https://github.com/Witcher26/JavaCore_Task_5_1_CSV_to_JSON_parser)
 - [Работа с XML - JSON парсером](https://github.com/Witcher26/JavaCore_Task_5_2_XML_to_JSON_parser)
-- [Работа с Json to java-classes парсером](https://github.com/Witcher26/JavaCore_Task_5_3_Json_to_Java_class_parser)
 
 🔭 I’m currently working on test task - [application for Alfa-Bank - exchange rates](https://github.com/Witcher26/exchange_rates)  
 🌱 I’m currently learning Spring Framework by Udemy and full course PostgreSQL on BeOnMax  
