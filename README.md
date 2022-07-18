@@ -15,6 +15,7 @@ I am Igor Zvezdilin and am java developer
 🌱 I’m currently learning Spring Framework by Udemy and full course PostgreSQL on BeOnMax  
 🤔 I’m looking for help with my first job in backend developing  
 
-📫 How to reach me: by mail: 1816178@mail.ru and by telegram https://t.me/@witcher26  
+📫 How to reach me: by mail: 1816178@mail.ru and by telegram https://t.me/@witcher26  (li![telegr](https://user-images.githubusercontent.com/66370784/179454999-31e87cb1-bfae-448e-9b6c-27ba781ba1c7.JPG)
+)
 
 
