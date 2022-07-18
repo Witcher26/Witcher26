@@ -14,7 +14,7 @@ I am Igor Zvezdilin and am java developer
 🌱 I’m currently learning Spring Framework by Udemy and full course PostgreSQL on BeOnMax  
 🤔 I’m looking for help with my first job in backend developing  
 
-my certificates:
+My certificates:
 + [Java-development](https://user-images.githubusercontent.com/66370784/179455703-e8190e68-f700-43a7-8b97-578f4ca06523.jpg)
 
 
