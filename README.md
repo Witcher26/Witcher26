@@ -20,6 +20,4 @@ I am Igor Zvezdilin and am java developer
 
 📫 How to reach me: by mail: 1816178@mail.ru and by telegram https://t.me/@witcher26  
 
-![telegr](https://user-images.githubusercontent.com/66370784/179455096-4350c0e7-4ae6-4151-afdc-3335d240247c.JPG)
-
-
+![telegr](https://user-images.githubusercontent.com/66370784/179456087-ac001da1-1dfd-47be-8f46-9aa24d5a31b8.JPG)
