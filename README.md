@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Igor Zvezdilin and am java developer
+I am Igor Zvezdilin and am junior java developer
 
 ## 👯 SKILLS
  + Java SE 8 | intellij idea
