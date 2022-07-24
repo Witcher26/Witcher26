@@ -1,7 +1,14 @@
 ### Hi there 👋
 I am Igor Zvezdilin and am java developer
 
-
+## 👯 SKILLS
+ + Java SE 8 | intellij idea
+ + Postgresql | MongoDB
+ + Maven
+ + JUnit
+ + Swagger
+ 
+## 👯 PROFESSIONAL EXPERIENCE
 **😄 Here's what I've already done:**
 - [My REST-Api project on the Spring Boot with PostgreSQL and MongoDB database, and with manual to use on Swagger - "Glossary"](https://github.com/Witcher26/Glossary)
 - [Test tasks and exercises](https://github.com/Witcher26/TaskOfInterview)
@@ -16,6 +23,16 @@ I am Igor Zvezdilin and am java developer
 
 ⚡ My certificates:
 + [Java-development](https://user-images.githubusercontent.com/66370784/179455703-e8190e68-f700-43a7-8b97-578f4ca06523.jpg)
+
+## 👯 EDUCATION
+2022 - Netologiya LLC
+  + JPAT-PDC-3 - Java-development, Java-developer  
+  
+2017 - MOSCOW AUTOMOBILE AND ROAD CONSTRUCTION STATE TECHNICAL UNIVERSITY (MADI)
+  + master's degree, automation of production processes and productions
+## 👯 LANGUAGES
++ russian (native)
+english (with a dictionary)  
 
 
  💬 How to reach me: by mail - 1816178@mail.ru and by telegram - https://t.me/@witcher26  
