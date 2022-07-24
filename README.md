@@ -34,7 +34,8 @@ I am Igor Zvezdilin and am junior java developer
 + russian (native)  
 + english (with a dictionary)  
 
-
- 💬 How to reach me: by mail - 1816178@mail.ru and by telegram - https://t.me/@witcher26  
+## 👯 CONTACTS  
+ 💬 How to reach me:  
+ by mail - 1816178@mail.ru and by telegram - https://t.me/@witcher26  
 
 ![imgonline-com-ua-Resize-GvBgbCIRmoDYzzD](https://user-images.githubusercontent.com/66370784/179456866-9d5405df-cc3d-4847-808c-a06a0f6c868c.jpg)
