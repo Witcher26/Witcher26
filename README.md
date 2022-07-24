@@ -31,8 +31,8 @@ I am Igor Zvezdilin and am java developer
 2017 - MOSCOW AUTOMOBILE AND ROAD CONSTRUCTION STATE TECHNICAL UNIVERSITY (MADI)
   + master's degree, automation of production processes and productions
 ## 👯 LANGUAGES
-+ russian (native)
-english (with a dictionary)  
++ russian (native)  
++ english (with a dictionary)  
 
 
  💬 How to reach me: by mail - 1816178@mail.ru and by telegram - https://t.me/@witcher26  
