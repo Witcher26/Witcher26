@@ -24,6 +24,7 @@ I am Igor Zvezdilin and am junior java developer
 ## ⚡ My certificates:
 + [Java-Development 2022](https://user-images.githubusercontent.com/66370784/179455703-e8190e68-f700-43a7-8b97-578f4ca06523.jpg)
 + [Java-Advanced 2021](https://github.com/Witcher26/Witcher26/files/9226592/Java.Advanced.pdf)
++ [Git basics](https://github.com/Witcher26/Witcher26/files/9226645/Git.basics.pdf)
 
 
 ## 👯 EDUCATION
