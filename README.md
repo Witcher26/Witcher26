@@ -25,7 +25,7 @@ I am Igor Zvezdilin and am junior java developer
 + [Java-Development 2022 Netology LLC](https://user-images.githubusercontent.com/66370784/179455703-e8190e68-f700-43a7-8b97-578f4ca06523.jpg)
 + [Java-Advanced 2021 ITVDN ](https://github.com/Witcher26/Witcher26/files/9226592/Java.Advanced.pdf)
 + [Git basics ITVDN](https://github.com/Witcher26/Witcher26/files/9226645/Git.basics.pdf)
-+ [PostgresQl BeOnMax]
++ [Postgresql BeOnMax]
 
 
 ## 👯 EDUCATION
