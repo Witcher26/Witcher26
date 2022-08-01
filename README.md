@@ -2,7 +2,7 @@
 I am Igor Zvezdilin and am Junior Java Developer
 
 ## 👯 SKILLS
- + Java SE 8 | intellij idea
+ + Java SE 8 | Intellij idea
  + Postgresql | MongoDB
  + Maven
  + JUnit
