@@ -35,8 +35,8 @@ I am Igor Zvezdilin and am Junior Java Developer
 2017 - MOSCOW AUTOMOBILE AND ROAD CONSTRUCTION STATE TECHNICAL UNIVERSITY (MADI)
   + master's degree, automation of production processes and productions
 ## 👯 LANGUAGES
-+ russian (native)  
-+ english (with a dictionary)  
++ Russian (native)  
++ English (with a dictionary)  
 
 ## 👯 CONTACTS  
  💬 How to reach me:  
