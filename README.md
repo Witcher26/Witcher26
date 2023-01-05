@@ -1,7 +1,10 @@
 ### Hi there 👋
-I am Igor Zvezdilin and am Junior Java Developer
+I am Igor Zvezdilin and am React js Developer
 
 ## 👯 SKILLS
+ + React js
+ + gitlab
+ + Jira
  + Java SE 8 | Intellij idea
  + Postgresql | MongoDB
  + Maven
