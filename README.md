@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Igor Zvezdilin and am React js Developer
+I am Igor Zvezdilin and am Java Developer
 
 ## 👯 SKILLS
  + React js
