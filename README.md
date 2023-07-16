@@ -31,7 +31,7 @@ I am Igor Zvezdilin and am Frontend-React-Developer
 + [Postgresql BeOnMax]  
 
 ## 👯 EDUCATION
-2023 - has successfully completed the React-Developer Professional Training Course at Practicum by Yandex(INO CPE "YANDEX EDTECH") - 230 hours.
+2023 - has successfully completed the React-Developer Professional Training Course at Practicum by Yandex (INO CPE "YANDEX EDTECH") - 230 hours.
 
 2022 - Netologiya LLC
   + JPAT-PDC-3 - Java-development, Java-developer  
