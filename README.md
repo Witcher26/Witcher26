@@ -17,13 +17,14 @@ I am Igor Zvezdilin and am Frontend-React-Developer
  
 ## 👯 PROFESSIONAL EXPERIENCE
 **😄 Here's what I've already done:**
-- [My "Stellar-Burger"-project on the React, JavaScript and TypeScritp](https://github.com/Witcher26/ZvezdilinIL-Stellar_Burgers)
+- [My "Stellar-Burger"-project on the React, JavaScript and TypeScript](https://github.com/Witcher26/ZvezdilinIL-Stellar_Burgers)
 
-🔭 I’m currently working on test task - [application for Alfa-Bank - exchange rates](https://github.com/Witcher26/exchange_rates)  
-🌱 I’m currently learning Spring Framework by Udemy and full course PostgreSQL on BeOnMax  
-🤔 I’m looking for help with my first job in backend developing  
+🔭 I’m currently work in the company Rosselkhozbank as a frontend developer 
+🌱 I’m currently study it more deeply React, JavaScript and TypeScript
+🤔 I’m looking for help with my first job in fronted develop
 
 ## ⚡ My certificates:
++ [Yandex-Practicum React-fronted-developer]()
 + [Java-Development 2022 Netology LLC](https://user-images.githubusercontent.com/66370784/179455703-e8190e68-f700-43a7-8b97-578f4ca06523.jpg)
 + [Java-Advanced 2021 ITVDN ](https://github.com/Witcher26/Witcher26/files/9226592/Java.Advanced.pdf)
 + [Git basics ITVDN](https://github.com/Witcher26/Witcher26/files/9226645/Git.basics.pdf)
