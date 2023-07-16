@@ -17,7 +17,7 @@ I am Igor Zvezdilin and am Frontend-React-Developer
  
 ## 👯 PROFESSIONAL EXPERIENCE
 **😄 Here's what I've already done:**
-- [My "Stellar-Burger"-project on the React, JavaScript and TypeScript](https://github.com/Witcher26/ZvezdilinIL-Stellar_Burgers)
+- [My "Stellar-Burger"-project on the React, JavaScript and TypeScript](https://github.com/Witcher26/ZvezdilinIL-Stellar_Burgers)  
 
 🔭 I’m currently work in the company Rosselkhozbank as a frontend developer 
 🌱 I’m currently study it more deeply React, JavaScript and TypeScript
