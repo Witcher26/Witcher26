@@ -21,10 +21,10 @@ I am Igor Zvezdilin and am Frontend-React-Developer
 
 🔭 I’m currently work in the company Rosselkhozbank as a frontend developer 
 🌱 I’m currently study it more deeply React, JavaScript and TypeScript
-🤔 I’m looking for help with my first job in fronted develop
+🤔 I’m looking for help with my job in fronted develop
 
 ## ⚡ My certificates:
-+ [Yandex-Practicum React-fronted-developer](![Zvezdilin Igor_20232RE0019711_Страница_2](https://github.com/Witcher26/Witcher26/assets/66370784/da05f145-f574-47c5-bba6-30cb1137a072))
++ [Yandex-Practicum React-frontend-developer](https://github.com/Witcher26/Witcher26/assets/66370784/da05f145-f574-47c5-bba6-30cb1137a072)
 + [Java-Development 2022 Netology LLC](https://user-images.githubusercontent.com/66370784/179455703-e8190e68-f700-43a7-8b97-578f4ca06523.jpg)
 + [Java-Advanced 2021 ITVDN ](https://github.com/Witcher26/Witcher26/files/9226592/Java.Advanced.pdf)
 + [Git basics ITVDN](https://github.com/Witcher26/Witcher26/files/9226645/Git.basics.pdf)
@@ -32,6 +32,8 @@ I am Igor Zvezdilin and am Frontend-React-Developer
 
 
 ## 👯 EDUCATION
+2023 - has successfully completed the React-Developer Professional Training Course at Practicum by Yandex(INO CPE "YANDEX EDTECH") - 230 hours.
+
 2022 - Netologiya LLC
   + JPAT-PDC-3 - Java-development, Java-developer  
   
