@@ -24,7 +24,7 @@ I am Igor Zvezdilin and am Frontend-React-Developer
 🤔 I’m looking for help with my job in fronted develop
 
 ## ⚡ My certificates:
-+ [Yandex-Practicum React-frontend-developer](https://github.com/Witcher26/Witcher26/assets/66370784/da05f145-f574-47c5-bba6-30cb1137a072)
++ [Yandex-Practicum React-frontend-developer](https://github.com/Witcher26/Witcher26/assets/66370784/13107bc6-8cf4-4631-b970-24aa97221c62)
 + [Java-Development 2022 Netology LLC](https://user-images.githubusercontent.com/66370784/179455703-e8190e68-f700-43a7-8b97-578f4ca06523.jpg)
 + [Java-Advanced 2021 ITVDN ](https://github.com/Witcher26/Witcher26/files/9226592/Java.Advanced.pdf)
 + [Git basics ITVDN](https://github.com/Witcher26/Witcher26/files/9226645/Git.basics.pdf)
