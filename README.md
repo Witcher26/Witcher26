@@ -4,15 +4,15 @@ I am Igor Zvezdilin and am Frontend-React-Developer
 ## 👯 SKILLS
  + React
  + JavaScript
- + Gitlab
- + Jira
- + Jenkins
  + Typescript
  + Redux
  + Mobx
  + Cypress
- + WebSocket
  + J-Unit
+ + WebSocket
+ + Gitlab
+ + Jira
+ + Jenkins
  + Linux
  
 ## 👯 PROFESSIONAL EXPERIENCE
