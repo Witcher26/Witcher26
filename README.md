@@ -1,15 +1,19 @@
 ### Hi there 👋
-I am Igor Zvezdilin and am Java Developer
+I am Igor Zvezdilin and am Frontend-React-Developer
 
 ## 👯 SKILLS
- + React js
- + gitlab
+ + React
+ + JavaScript
+ + Gitlab
  + Jira
- + Java SE 8 | Intellij idea
- + Postgresql | MongoDB
- + Maven
- + JUnit
- + Swagger
+ + Jenkins
+ + Typescript
+ + Redux
+ + Mobx
+ + Cypress
+ + WebSocket
+ + J-Unit
+ + Linux
  
 ## 👯 PROFESSIONAL EXPERIENCE
 **😄 Here's what I've already done:**
