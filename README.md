@@ -17,12 +17,7 @@ I am Igor Zvezdilin and am Frontend-React-Developer
  
 ## 👯 PROFESSIONAL EXPERIENCE
 **😄 Here's what I've already done:**
-- [My REST-Api project on the Spring Boot with PostgreSQL and MongoDB database, and with manual to use on Swagger - "Glossary"](https://github.com/Witcher26/Glossary)
-- [Test tasks and exercises](https://github.com/Witcher26/TaskOfInterview)
-- [Diploma project. Search engine](https://github.com/Witcher26/pcs-jd-diplom_Search_System)
-- [Course work. Converter to Text graphics](https://github.com/Witcher26/Kursovoy_converter_text_graphics)
-- [CSV - JSON parser](https://github.com/Witcher26/JavaCore_Task_5_1_CSV_to_JSON_parser)
-- [XML - JSON parser](https://github.com/Witcher26/JavaCore_Task_5_2_XML_to_JSON_parser)
+- [My "Stellar-Burger"-project on the React, JavaScript and TypeScritp](https://github.com/Witcher26/ZvezdilinIL-Stellar_Burgers)
 
 🔭 I’m currently working on test task - [application for Alfa-Bank - exchange rates](https://github.com/Witcher26/exchange_rates)  
 🌱 I’m currently learning Spring Framework by Udemy and full course PostgreSQL on BeOnMax  
