@@ -19,8 +19,8 @@ I am Igor Zvezdilin and am Frontend-React-Developer
 **😄 Here's what I've already done:**
 - [My "Stellar-Burger"-project on the React, JavaScript and TypeScript](https://github.com/Witcher26/ZvezdilinIL-Stellar_Burgers)  
 
-🔭 I’m currently work in the company Rosselkhozbank as a frontend developer  
-🌱 I’m currently study it more deeply React, JavaScript and TypeScript  
+🔭 I’m currently work in the company Rosselkhozbank as a Frontend-developer.  
+🌱 I’m currently studying in depth React, JavaScript and TypeScript.  
 🤔 I’m looking for help with my job in fronted develop  
 
 ## ⚡ My certificates:
@@ -38,6 +38,7 @@ I am Igor Zvezdilin and am Frontend-React-Developer
   
 2017 - MOSCOW AUTOMOBILE AND ROAD CONSTRUCTION STATE TECHNICAL UNIVERSITY (MADI)
   + master's degree, automation of production processes and productions
+      
 ## 👯 LANGUAGES
 + Russian (native)  
 + English (with a dictionary)  
